@@ -1,5 +1,5 @@
 """
-Put this on a server/machine on campus, run it every 5 min with cron or make a systemd unit idc.
+Put this on a server/machine on campus, run it every 5 min with cron or make a systemd unit+timer.
 """
 
 import paramiko
